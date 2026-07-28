@@ -46,6 +46,9 @@ Participating schools: Strawberry Fields High School, Vivek High School, The Shr
 ### Chit System
 ![Chit Screen](screenshots/chits.png)
 
+### Meal Entry Data
+![Meal Screen](screenshots/meal.png)
+
 ### Firebase — Live User Activity (150 Peak DAU, 213 MAU)
 ![Firebase Auth Stats](screenshots/firebase_auth.png)
 
