@@ -2,7 +2,7 @@
 
 **Conference management platform built to make offline events fully digital.**
 
-Orbis Forum replaces paper chits, printed schedules, clipboards, and manual attendance tracking with a real-time mobile and web application. Built solo by Thakur Garg, Grade 12, Strawberry Fields High School, Chandigarh.
+Orbis Forum replaces paper chits, printed schedules, clipboards, and manual attendance tracking with a real-time mobile and web application. Built by Thakur Garg, Grade 12, Strawberry Fields High School, Chandigarh.
 
 This repository is a **showcase** of the project — README, screenshots, and live deployment stats. The full source code is proprietary and kept in a private repository.
 
