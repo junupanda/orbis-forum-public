@@ -38,27 +38,28 @@ Participating schools: Strawberry Fields High School, Vivek High School, The Shr
 ## Screenshots
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots/Login%20Screen.jpeg)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.jpeg)
 
 ### Chit System
-![Chit Screen](screenshots/chits.png)
+![Chit System](screenshots/chits.jpeg)
 
 ### Meal Entry Data
-![Meal Screen](screenshots/meal.png)
+![Meal Entry Data](screenshots/meal.jpeg)
 
 ### Firebase — Live User Activity (150 Peak DAU, 213 MAU)
-![Firebase Auth Stats](screenshots/firebase_auth.png)
+![Firebase — Live User Activity](screenshots/Firebase%20%E2%80%94%20Live%20User%20Activity%20(150%20Peak%20DAU,%20213%20MAU).webp)
 
 ### Firebase — Hosting Traffic (475 MB served)
-![Firebase Hosting Stats](screenshots/firebase_hosting.png)
+![Firebase — Hosting Traffic](screenshots/Firebase%20%E2%80%94%20Hosting%20Traffic%20(475%20MB%20served).webp)
 
 ### Firebase — Database Operations (153K reads)
-![Firestore Stats](screenshots/firestore_stats.png)
+![Firebase — Database Operations](screenshots/Firebase%20%E2%80%94%20Database%20Operations%20(153K%20reads).jpeg)
 
 ---
+
 
 ## Features
 
